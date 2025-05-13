@@ -25,7 +25,8 @@
 
 ###
 
-<p align="left">I am a dedicated Software Engineer with expertise in both front-end and back-end technologies, including TypeScript, JavaScript, Python, and Django. With hands-on experience in database management using PostgreSQL, MySQL, and TypeORM, I have successfully developed and deployed multiple projects. Currently pursuing a degree in Computer Science and Engineering at American International University-Bangladesh, I am passionate about leveraging my skills to develop innovative solutions in the software industry..</p>
+<p align="left">  I am a dedicated Software Engineer with a strong foundation in both front-end and back-end technologies. My skill set includes TypeScript, JavaScript, Python, Django, Node.js, React, and Tailwind CSS. I also have hands-on experience in database management using PostgreSQL, MySQL, and TypeORM. Over the course of my academic and professional journey, I have successfully developed and deployed multiple full-stack projects. Currently pursuing a degree in Computer Science and Engineering at American International University-Bangladesh, I am passionate about building scalable and efficient applications that solve real-world problems.
+</p>
 
 ###
 
@@ -37,6 +38,10 @@
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind css logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
   <img width="12" />
